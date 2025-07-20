@@ -1,6 +1,8 @@
 fastapi
 uvicorn
+HEAD
 pandas
 scikit-learn
 streamlit
 requests
+ fb984c1 (Add ci/cd pipeline with tests)

@@ -1,0 +1,11 @@
+2025-05-26 23:20:34,247 - INFO - [insecure] Access to anita@duolingo.com | Result: Allowed
+2025-05-26 23:21:08,160 - INFO - [insecure] Access to doesnotexist@duolingo.com | Result: Blocked (not found)
+2025-05-26 23:30:26,634 - INFO - [insecure] Access to anita@duolingo.com | Result: Allowed
+2025-05-26 23:30:31,273 - INFO - [insecure] Access to anita@duolingo.com | Result: Allowed
+2025-05-26 23:30:33,246 - INFO - [insecure] Access to anita@duolingo.com | Result: Allowed
+2025-05-26 23:30:34,576 - INFO - [insecure] Access to anita@duolingo.com | Result: Blocked (rate limited)
+2025-05-26 23:34:10,711 - INFO - [insecure] Access to anita@duolingo.com | Result: Allowed
+2025-05-26 23:34:15,205 - INFO - [insecure] Access to anita@duolingo.com | Result: Allowed
+2025-05-26 23:34:16,507 - INFO - [insecure] Access to anita@duolingo.com | Result: Allowed
+2025-05-26 23:34:17,242 - INFO - [insecure] Access to anita@duolingo.com | Result: Blocked (rate limited)
+2025-05-26 23:34:18,867 - INFO - [insecure] Access to anita@duolingo.com | Result: Blocked (rate limited)
